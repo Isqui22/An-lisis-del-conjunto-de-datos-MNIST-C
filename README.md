@@ -1,1 +1,1 @@
-# An-lisis-del-conjunto-de-datos-MNIST-C
+# Analisis-MNIST-C
