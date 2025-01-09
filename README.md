@@ -18,6 +18,8 @@ promedio en cada atributo de todas las imágenes, y luego agrupando por dígito,
 analizar patrones y diferencias entre clases que puedan ser útiles en la construcción del
 modelo.
 
+Además de los mapas de calor, se estudió la distancia euclidiana entre todos los pares de imágenes y se realizó la visualización de los datos redimensionados con PCA
+
 Para desarrollar el modelo, dividimos los datos en dos subconjuntos: desarrollo
 (80 % del total), utilizado para entrenar y ajustar el modelo, y validación (20 % restante),
 empleado para evaluar su rendimiento.
